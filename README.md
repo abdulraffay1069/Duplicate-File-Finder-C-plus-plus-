@@ -167,6 +167,14 @@ This project demonstrates:
 * Exportable duplicate reports
 
 ---
+## 👥 Contributors
+
+This project was developed as a collaborative team effort.
+
+- **Abdul Raffay Raja** — Overall project integration, structure design, and implementation of the custom **HashMap**  
+- **Umar Faisal** — Implemented file handling system and contributed to hashing logic  
+- **Abdul Basit Ali** — Developed DFS-based directory traversal and N-ary tree structure implementation  
+
 
 ## 👨‍💻 Author
 
